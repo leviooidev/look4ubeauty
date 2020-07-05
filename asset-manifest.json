@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/look4ubeauty/static/css/main.2d2ee9b6.chunk.css",
-    "main.js": "/look4ubeauty/static/js/main.ab34b98b.chunk.js",
-    "main.js.map": "/look4ubeauty/static/js/main.ab34b98b.chunk.js.map",
-    "runtime-main.js": "/look4ubeauty/static/js/runtime-main.9b6cf8da.js",
-    "runtime-main.js.map": "/look4ubeauty/static/js/runtime-main.9b6cf8da.js.map",
-    "static/js/2.4f0d1a4f.chunk.js": "/look4ubeauty/static/js/2.4f0d1a4f.chunk.js",
-    "static/js/2.4f0d1a4f.chunk.js.map": "/look4ubeauty/static/js/2.4f0d1a4f.chunk.js.map",
-    "index.html": "/look4ubeauty/index.html",
-    "precache-manifest.4bfdb0572f3c0c88be8a87a483dbc5a6.js": "/look4ubeauty/precache-manifest.4bfdb0572f3c0c88be8a87a483dbc5a6.js",
-    "service-worker.js": "/look4ubeauty/service-worker.js",
-    "static/css/main.2d2ee9b6.chunk.css.map": "/look4ubeauty/static/css/main.2d2ee9b6.chunk.css.map",
-    "static/js/2.4f0d1a4f.chunk.js.LICENSE.txt": "/look4ubeauty/static/js/2.4f0d1a4f.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/look4ubeauty/static/media/logo.1d2219c5.png"
+    "main.css": "./static/css/main.2d2ee9b6.chunk.css",
+    "main.js": "./static/js/main.aa9873bc.chunk.js",
+    "main.js.map": "./static/js/main.aa9873bc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1147b1fd.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1147b1fd.js.map",
+    "static/js/2.4f0d1a4f.chunk.js": "./static/js/2.4f0d1a4f.chunk.js",
+    "static/js/2.4f0d1a4f.chunk.js.map": "./static/js/2.4f0d1a4f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.83cc784a057315dac6bb0189993d956a.js": "./precache-manifest.83cc784a057315dac6bb0189993d956a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.2d2ee9b6.chunk.css.map": "./static/css/main.2d2ee9b6.chunk.css.map",
+    "static/js/2.4f0d1a4f.chunk.js.LICENSE.txt": "./static/js/2.4f0d1a4f.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "./static/media/logo.1d2219c5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b6cf8da.js",
+    "static/js/runtime-main.1147b1fd.js",
     "static/js/2.4f0d1a4f.chunk.js",
     "static/css/main.2d2ee9b6.chunk.css",
-    "static/js/main.ab34b98b.chunk.js"
+    "static/js/main.aa9873bc.chunk.js"
   ]
 }
